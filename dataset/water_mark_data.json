@@ -1,0 +1,22 @@
+{
+	"name": "water_mark_data",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "last_load",
+				"type": "varchar"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "watermark_tbl"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

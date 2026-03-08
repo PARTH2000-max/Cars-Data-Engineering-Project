@@ -1,0 +1,9 @@
+{
+	"name": "rgadfpmngrs",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "378f87ff-4b9a-4657-b043-f78a9e9f9657",
+		"tenantId": "5a9fd997-9de1-423c-bf50-79f7a025eaa0"
+	}
+}
