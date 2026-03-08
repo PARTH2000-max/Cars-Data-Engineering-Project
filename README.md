@@ -1,11 +1,12 @@
 End-to-End Azure Data Engineering: Car Sales Analytics
 
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/44de65ac-838a-426a-b939-a2e33b363a9f" alt="Cars Data Data Engineering Architecture" width="800">
+</p>
 
 🚀 Project Overview
 This project simulates a production-grade data engineering pipeline for a global car retailer. The architecture leverages the Medallion Pattern to transform raw, noisy transactional data into a high-performance Star Schema for executive-level business intelligence.
 
-![car_project_architecture](https://github.com/user-attachments/assets/44de65ac-838a-426a-b939-a2e33b363a9f)
 
 🛠 Core Tech Stack
 Orchestration: Azure Data Factory (ADF) with parameterized pipelines.
