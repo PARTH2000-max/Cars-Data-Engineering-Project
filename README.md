@@ -1,4 +1,6 @@
-End-to-End Azure Data Engineering: Car Sales Analytics
+# Car-Sales-Data-Engineering-Project
+
+ 🚗 End-to-End Azure Data Engineering: Car Sales Analytics
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/44de65ac-838a-426a-b939-a2e33b363a9f" alt="Cars Data Data Engineering Architecture" width="800">
